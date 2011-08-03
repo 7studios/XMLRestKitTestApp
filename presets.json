@@ -1,0 +1,44 @@
+{
+  "Root": {
+    "ProgramPresets": [
+      {
+        "ProgramPresetItemId": "4487be02-7ac5-4eb2-9b10-4e628798f0fa",
+        "ProgramCampaignId": 30001,
+        "IRepId": 400,
+        "PresetTitle": "Green Grass Inital Fill 1",
+        "Version": 1,
+        "ModifiedDate": "\/Date(1311349977640-0400)\/",
+        "ProgramPresetItems": [
+          {
+            "PresetId": 100,
+            "ProgramPresetItemId": "4487be02-7ac5-4eb2-9b10-4e628798f0fa",
+            "ProductItemNo": "33973",
+            "InitialFillQuantity": 4
+          }
+        ]
+      },
+      {
+        "ProgramPresetItemId": "84eb4782-65c0-4f10-924b-771135986cf7",
+        "ProgramCampaignId": 30001,
+        "IRepId": 400,
+        "PresetTitle": "**Green Grass Inital Fill 2",
+        "Version": 1,
+        "ModifiedDate": "\/Date(1311350306463-0400)\/",
+        "ProgramPresetItems": [
+          {
+            "PresetId": 102,
+            "ProgramPresetItemId": "84eb4782-65c0-4f10-924b-771135986cf7",
+            "ProductItemNo": "30317",
+            "InitialFillQuantity": 10
+          },
+          {
+            "PresetId": 103,
+            "ProgramPresetItemId": "84eb4782-65c0-4f10-924b-771135986cf7",
+            "ProductItemNo": "30317",
+            "InitialFillQuantity": 7
+          }
+        ]
+      }
+    ]
+  }
+}

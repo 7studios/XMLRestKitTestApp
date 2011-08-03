@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <ProgramPresets>
+    <ProgramPresetItemId>4487be02-7ac5-4eb2-9b10-4e628798f0fa</ProgramPresetItemId>
+    <ProgramCampaignId>30001</ProgramCampaignId>
+    <iRepId>400</iRepId>
+    <PresetTitle>Green Grass Inital Fill 1</PresetTitle>
+    <Version>1</Version>
+    <ModifiedDate>2011-07-22T11:52:57</ModifiedDate>
+    <ProgramPresetItem>
+      <PresetId>100</PresetId>
+      <ProgramPresetItemId>4487be02-7ac5-4eb2-9b10-4e628798f0fa</ProgramPresetItemId>
+      <ProductItemNo>33973</ProductItemNo>
+      <InitialFillQuantity>4</InitialFillQuantity>
+    </ProgramPresetItem>
+  </ProgramPresets>
+  <ProgramPresets>
+    <ProgramPresetItemId>84eb4782-65c0-4f10-924b-771135986cf7</ProgramPresetItemId>
+    <ProgramCampaignId>30001</ProgramCampaignId>
+    <iRepId>400</iRepId>
+    <PresetTitle>**Green Grass Inital Fill 2</PresetTitle>
+    <Version>1</Version>
+    <ModifiedDate>2011-07-22T11:58:26</ModifiedDate>
+    <ProgramPresetItem>
+      <PresetId>102</PresetId>
+      <ProgramPresetItemId>84eb4782-65c0-4f10-924b-771135986cf7</ProgramPresetItemId>
+      <ProductItemNo>30317</ProductItemNo>
+      <InitialFillQuantity>10</InitialFillQuantity>
+    </ProgramPresetItem>
+    <ProgramPresetItem>
+      <PresetId>103</PresetId>
+      <ProgramPresetItemId>84eb4782-65c0-4f10-924b-771135986cf7</ProgramPresetItemId>
+      <ProductItemNo>30317</ProductItemNo>
+      <InitialFillQuantity>7</InitialFillQuantity>
+    </ProgramPresetItem>
+  </ProgramPresets>
+</Root>
+
+
+
